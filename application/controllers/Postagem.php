@@ -60,7 +60,7 @@ class Postagem extends CI_Controller {
         echo json_encode(array(
             'likes' => $this->curtidas($id_post),
             'post' => $id_post,
-            'situacao' => TRUE
+            'situacao' => $this->curtidas($id_post) == 0 ? FALSE : TRUE
         ));
     }
 

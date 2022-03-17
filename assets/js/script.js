@@ -32,7 +32,9 @@ $(document).ready(function () {
                    $("#svg"+data['post']).removeAttr("fill"); 
                    $("#like"+data['post']).text(data['likes']); 
                 } else if (data['situacao'] == false) {
-
+                   $("#like"+data['post']).text(data['likes']);  
+                   $("#svg"+data['post']).attr('fill', 'none');
+                   
                 }
             }
         });

@@ -3,6 +3,10 @@
   outline: none;
   box-sizing: border-box;
 }
+a:hover, a:active, a:focus {
+    outline: none;
+    border: 0;
+}
 .cc785 {
     padding: 8px 20px 5px !important;
 }
