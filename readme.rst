@@ -7,6 +7,8 @@ Para instalar o banco de dados da aplicação, basta criar um banco com o nome "
 
 No final, o projeto será executado normalmente se estiver como: http://localhost/prova/
 
+Obs.: Para configurar o usuário e senha do banco no projeto basta ir em application/config/database.php
+
 ###################
 Stacks
 ###################
