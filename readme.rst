@@ -5,6 +5,8 @@ Como executar esse projeto
 Para executar esse projeto é muito simples! Você precisa ter um servidor PHP devidamente configurado ou o XAMPP instalado na sua máquina
 Para instalar o banco de dados da aplicação, basta criar um banco com o nome "redesocial" e importar o banco a partir do arquivo "redesocial.sql"
 
+No final, o projeto será executado normalmente se estiver como: http://localhost/prova/
+
 *******************
 Stacks 
 *******************
