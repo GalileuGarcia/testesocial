@@ -10,6 +10,13 @@ No final, o projeto será executado normalmente se estiver como: http://localhos
 Obs.: Para configurar o usuário e senha do banco no projeto basta ir em application/config/database.php
 
 ###################
+Usuários | Senha para teste
+###################
+caio | 1234
+lazara | 1234
+fernanda | 1234
+
+###################
 Stacks
 ###################
 
