@@ -13,7 +13,7 @@ Obs.: Para configurar o usuário e senha do banco no projeto basta ir em applica
 Usuários | Senha para teste
 ###################
 caio | 1234
-lazara | 1234
+lazaro | 1234
 fernanda | 1234
 
 ###################
